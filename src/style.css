@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+    background-color: blue;
+}
+.title{
+    font-family: 'Courier New', Courier, monospace
+
+}
+.kh{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    color: red;
+}
